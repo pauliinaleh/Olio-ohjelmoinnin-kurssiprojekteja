@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.AssemblyInfo.cs
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\demo1\bin\Debug\net7.0\demo1.exe
+C:\Users\pauli\source\repos\demo1\bin\Debug\net7.0\demo1.deps.json
+C:\Users\pauli\source\repos\demo1\bin\Debug\net7.0\demo1.runtimeconfig.json
+C:\Users\pauli\source\repos\demo1\bin\Debug\net7.0\demo1.dll
+C:\Users\pauli\source\repos\demo1\bin\Debug\net7.0\demo1.pdb
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.dll
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\refint\demo1.dll
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.pdb
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\demo1.genruntimeconfig.cache
+C:\Users\pauli\source\repos\demo1\obj\Debug\net7.0\ref\demo1.dll

@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\bin\Debug\net7.0\YhdistaLuokkiaTeht.exe
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\bin\Debug\net7.0\YhdistaLuokkiaTeht.deps.json
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\bin\Debug\net7.0\YhdistaLuokkiaTeht.runtimeconfig.json
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\bin\Debug\net7.0\YhdistaLuokkiaTeht.dll
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\bin\Debug\net7.0\YhdistaLuokkiaTeht.pdb
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.AssemblyInfo.cs
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.dll
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\refint\YhdistaLuokkiaTeht.dll
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.pdb
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\YhdistaLuokkiaTeht.genruntimeconfig.cache
+C:\Users\pauli\source\repos\YhdistaLuokkiaTeht\obj\Debug\net7.0\ref\YhdistaLuokkiaTeht.dll
